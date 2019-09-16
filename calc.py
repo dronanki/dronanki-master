@@ -6,7 +6,7 @@ def add (x,y):
 
 def substract (x,y):
     **substarction function**
-    return x - y
+    pass
 
 
 def multiple (x,y):
